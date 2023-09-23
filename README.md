@@ -1,10 +1,6 @@
-# film_rental_analysis
-Analyzing the current state of a film rental company, presenting insights, and proposing data driven business actions.
-
-For a full review of this project, please see: https://www.watsmeow.com/film-business-analysis
-
-# File Rental Business Analysis
+# Film Rental Business Analysis
 Rockbuster, a film rental company renting physical films through brick-and-mortar stores, needs to better understand their business in order to create a plan to go digital.
+For a full review of this project, please see: https://www.watsmeow.com/film-business-analysis
 
 ![image](https://github.com/watsmeow/film_rental_analysis/assets/99840213/3d8250fe-2021-4852-87b2-5ec7984f5fff)
 
